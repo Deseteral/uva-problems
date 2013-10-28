@@ -4,7 +4,7 @@ int main()
 {
 	unsigned int i, j;
 	
-	while (scanf_s("%d %d", &i, &j) != EOF)
+	while (scanf("%d %d", &i, &j) != EOF)
 	{
 		unsigned int a, b;
 		unsigned int n = 0;
